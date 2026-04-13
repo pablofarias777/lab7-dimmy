@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+outputs/
+llama2-python-lora/
+
+.DS_Store
